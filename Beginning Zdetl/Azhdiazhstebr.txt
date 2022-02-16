@@ -1,0 +1,34 @@
+Azhdiazhstebr
+Zhodani Scholar (Physician)
+Str-8 (+0)
+Dex-B (+2)
+End-7 (+0)
+Int-A (+1)
+Edu-B (+1)
+Soc-C (+2)
+Psi-C (+2) 
+Age 34, 4 Terms, Rank 4
+Psi Talents: Awareness-2, Healing-2, Telekinesis-2, Telepathy-1
+Skills: Life Sciences-3, Medic-2, Computer-2, Language (Gvegh)-1, Advocate-1
+Benefits:
+Cr75,000
+Ninz-class ship (10 shares)
++2 Soc, +1 Int
+
+Term 1: Enlisted as Physician, Promoted to Rank-1
+Event: Won a prize for her work in Life Sciences, +1 to any one benefit roll
+
+Term 2: Continued, promoted to Rank-2
+Event: Bureaucratic distraction, gained Advocate-1
+
+Term 3: Continued, promoted to Rank-3
+Event: Worked for an eccentric but brilliant noble. Gained an Ally and +2 on next advancement roll
+
+Term 4: Continued, promoted to Rank-4
+Event: Worked for an eccentric noble. Gained an Ally and +2 on next advancement roll
+
+Retired after Term 4.
+
+At the time of her appearance in Beginning Zdetl, she is Azhdiazhiepr, an Intendant in her first term. 
+
+
