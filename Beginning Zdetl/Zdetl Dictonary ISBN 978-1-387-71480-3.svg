@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="106" height="50" preserveAspectRatio="xMinYMin meet" viewBox="0 0 106 50" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="106" height="50"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-50)" style="clip-path: url(#clip)">
+		<g transform="">
+			<g transform="">
+				<rect x="0" y="0" width="113" height="50" style="stroke: none; stroke-linecap: butt; stroke-width: 0; fill: none; fill-rule: evenodd;"/>
+				<rect x="9" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="11" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="13" y="12.0" width="3" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="17" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="22" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="25" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="27" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="31" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="34" y="12.0" width="4" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="39" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="43" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="46" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="48" y="12.0" width="3" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="52" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="55" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="57" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="59" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="63" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="66" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="70" y="12.0" width="2" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="73" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="75" y="12.0" width="3" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="80" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="83" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="87" y="12.0" width="3" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="92" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="94" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="99" y="12.0" width="1" height="38.0" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="101" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<rect x="103" y="0" width="1" height="50" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 0; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+				<text x="1" y="2.4000000000000004" style="font-family: Courier; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4) scale(1,-1)">9</text>
+				<text x="15.0" y="2.4000000000000004" style="font-family: Courier; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4) scale(1,-1)">781387</text>
+				<text x="62.0" y="2.4000000000000004" style="font-family: Courier; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,4) scale(1,-1)">714803</text>
+			</g>
+		</g>
+	</g>
+</svg>
