@@ -1,0 +1,11 @@
+New creature (stats forthcoming):
+dlezhdazhainakl - as with most creature names, it has no precise translation and refers to the armored, sixteen legged crab-like creature that lives in some coastal regions and small islands on Zhdant. Aggressively curious and known to steal anything not nailed down, including vehicle parts, livestock, and unsuspecting campers.
+This critter fills the same ecological niches as coconut crabs and Komodo dragons and is found in similar environments.
+It is found most commonly on islands in the Zhdantpreql bay region:
+It has a close semi-symbiotic relationship with a coconut-like plant that grows in the equatorial islands of the Zhdantpreql Bay, the krazhkrazhdlats. The krazhkrazhdlats produces a pulpy nut with a hard exterior that is highly prized as a food source by the crabs and also by humans. Harvesting the dlats is made doubly dangerous by the presence of scavenging crabs and the fact that the nuts, when fully mature, explode with the force of a hand grenade, scattering sharp seeds over a radius of 20 to 50 meters.
+The dlezhdazhainakl mating season happens in the late summer when the krazhkrazhdlats fruit begins to mature and fall from the upper branches. This is also the optimal time to harvest the nuts and became a rite of passage for primitive Zhdantia tribes living in that region.
+The mark of a true warrior was a suit of dlezhdazhainakl armor.
+The adult dlezhdazhainakl are terrible parents; they'll eat anything that looks tasty including livestock, humans, and young crabs. The young crabs are smaller and more nimble than adults, so they've evolved to be good climbers. This makes camping in the trees almost as dangerous as camping on the ground for humans.
+CT stats:
+Carrion-eater (1D), 50kg (4D/2D hits), claws (2D), armor as battle
+The krazhkrazhdlats can be delayed in ripening by being kept in a cool, dark place - the ripening process requires exposure to sunlight and warm air - making it possible to transport a cargo of nuts reasonably safely. A warning sign of impending explosions is a tell-tale hissing of gasses being released.

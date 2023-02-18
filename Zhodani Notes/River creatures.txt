@@ -1,0 +1,37 @@
+River and coastal creatures of Zhdant:
+
+shtitse - A six-legged alligator-like predator found in the tropical rivers of Zhdant. It makes its home further inland where the tides are less intense. Generally solitary, but sometimes found in small groups of 1D individuals. When attacking, it will capture its prey in its powerful bite and drag it into the water to drown it.
+Size - 100kg, Hits - 5D/2D, Bite 2D, Armor as Jack
+
+zazpli - a sessile, herbivorous trivalve mollusk that consumes passing or floating plant life. It has an extensible beak that it uses to lash out at food sources. Zazpli are found most commonly at the mouths of coastal rivers and tend to appear in clusters of hundreds or even thousands of individuals and can be dangerous to inattentive swimmers or fishermen. The creature lacks real intelligence to discriminate between food items and is known to take bites out of passing fish. The zazpli, like other shellfish, is an important part of the Zhodani diet. 
+Size - 10g, Hits - 1D3, Atk - bite 1D3, Armor as Mesh
+
+dzachteshinzh - A solitary ambush predator that makes its home in the littoral rivers and streams of Zhdant. It burrows into riverbeds and hides under rocks to attack passing fish and other creatures. It is very aggressive and grows as large as 1.5 to 2 meters long. Once it bites its prey, it wraps its body around it to restrict movement and has been known to kill unsuspecting fishermen and swimmers.
+Size - 12kg, Hits 2D/2D, Bite 1D, Armor none
+
+chons - a small, piranha like creature found in the Zhdifrzdievr Toyak, the river that feeds the Zhdantpreql Bay. It swims in schools of 1D x 100 and on its own, the fish is deceptively small and harmless. However, it is an opportunistic ambush predator that can strip a yonchobo-sized animal to the bone in a few minutes. It is a major predator of the dlezhdainakl, the fearsome coconut crab found in the same region.
+Size - 1g, Hits 1D/0, Bite 1D3, Armor none
+
+On Zhdant, shellfish like clams and mollusks evolved along a trivalve structure with three-segmented shells.
+
+zdetla - a class of colony organisms resembling Terran jellyfish, with similar varying predation methods. Most are not dangerous to humans, or at least less dangerous to humans than to native life forms, but if found in large groups can be a significant hazard.
+
+
+Ocean creatures found throughout Zhdant
+
+jivrdrezdetla - "strap jellyfish," a creature resembling a transparent, almost invisible ribbon. It can grow up to ten meters in length. When any part of the creature comes into contact with a potential food source the entire strip contracts and surrounds the prey, restricting movement and subduing it with a paralytic venom. Humans are less affected by the venom than native life is, but still are vulnerable to being drowned by the jivrdrezdetla. Fortunately, jivrdrezdetla are usually solitary or found in small groups of 1D3.
+Size - 1kg, Hits 1D/1D, Venom 1D/round (1D3/round to humans), Armor none
+
+vialdech - one of the larger creatures found in the oceans of Zhdant, the vialdech is a filter feeder that scoops up swarms of smaller fish and shellfish. It is not dangerous to humans, but can be intimidating. It is migratory, spending its time between the northern and southern oceans, usually following the currents through the wide channel between the two continents of Dleqiats and Qiknavra. Vialdech are found in small groups (1D appearing).
+Size - 3200kg, Hits 8D/4D, Bite 6D, Armor as Jack
+
+jdablnetl - dolphin-like predators that migrate 
+Size - 800kg, Hits 7D/3D, Bite 4D, Armor none
+
+
+
+Land creatures
+dzaqkakenmiztli - a six-legged solitary sabre toothed tiger.
+Size - 200kg, Hits 5D/3D, Bite 2D, Claws 2D, No armor
+
+chikakenmiztlas - the "great cats" of zhdant. Generally refers to the class of such creatures and includes solitary hunters and social cats like Terran lions.
