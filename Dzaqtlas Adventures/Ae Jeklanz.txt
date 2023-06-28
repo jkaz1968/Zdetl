@@ -1,0 +1,50 @@
+Ae Jeklanz
+
+Era: End of Days
+
+Str 7 (+0)
+Dex 9 (+1)
+End 8 (+0)
+Int B (+2)
+Edu 8 (+0)
+Soc 6 (+0)
+Psi A (+1)
+
+Career: Scholar
+Rank 2
+
+Cash: 2200
+
+Age: 24
+
+Skills: Life Sciences-1, Science (Physics)-1, Drive-1
+Science (Archaeology)-4, Computers-2, Investigate-1
+Admin-1, Survival-0, Gun Combat (Rifles)-0
+
+Birthplace: in a palace (Soc +1)
+Dlolpliki
+
+Origin Story: Chosen One, Researcher
+Sent out by the priests and scholars to research the secrets of the old Empire
+
+Life Path: Scholar
+Event: Has a chance to cheat on some project; Roll Admin 8+ (rolled 10; succeeded)
+- Gained cash and +1 to Computers, also a Rival
+
+Life Points: 24/3 = 8 + 8 + 11 = 27
+Psi Points: 8
+
+Life Event: Travel to another part of the world. Improve one skill +1 (Archaeology)
+Life Event: Luck! Gain 300 cash
+
+Disadvantage: Curious-1 (5)
+Advantage: Daredevil-1 (5)
+
+Psi Talents (Latent): Telepathy, Telekinesis
+
+Cash: 6+6+2 x 100 = 1400
+
+
+Add a flow chart at the beginning of the section
+Clarify Psi purchase points
+Minor edits on character classes
