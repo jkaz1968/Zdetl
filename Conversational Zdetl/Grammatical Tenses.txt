@@ -1,0 +1,26 @@
+The Zdetl entry in the Traveller Wiki defines the following verb aspects constructed as a seperate word following the verb:
+Daz - past
+Chtenzh - future
+Tsench - repetitive/habitual
+Toz - punctual/completive
+Pri' - hopeful/optative
+-enzh - present participle (is -ing)
+-ej - past perfect (has -ed)
+These can be constructed as follows:
+chtenzenzh - will be doing ___
+tozenzh - will have been doing ___ (I did it, but it's finished now)
+dazenzh - had been doing ___ (I was doing whatever)
+dazej - had done
+chtenzej - will have done
+tozej - had finished
+pri'enzh - hope to do
+pri'ej - wish to have done/hope to have done
+In Beginning Zdetl, I define another aspect, the conditional, using the atomic word "ek" meaning "if." However, it can also be combined with the participle and perfective suffixes to produce conditional aspects:
+Ekenzh - ____ could possibly happen, if conditions are met
+Ekej - ____ could have happened, if conditions had been met
+As usual, these constructions follow the verb:
+Zarish ekenzh - we could be travelling (if some condition is met)
+Zarish ekej - we could have travelled (implying the condition was NOT met)
+
+When used in combination with the verb infinitive, it implies "maybe" or "perhaps," as in:
+Kochie, zdeze ekenzh (To sleep, perchance to dream)
