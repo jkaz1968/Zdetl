@@ -1,0 +1,69 @@
+Vlezshatliashav
+Homeworld: Zhdant
+
+Str - 6 (0)
+Dex - 7 (0)
+End - 7 (0)
+Int - 11 (+1)
+Edu - 10 (+1)
+Soc - 15 (+3)
+
+Psi - 12 (+2)
+
+Talents:
+Blocking-0, Telepathy-2, Teleprojection-0
+
+Skills:
+Admin-2, Athletics (Swimming)-1, Carousing-0, Computer-1, Comms-0, Grav Vehicle-1, Gun Combat (Slug)-0, Investigate-1, JoT-1, Melee (Blades)-0, Persuade-1, Recon-1, Science (Psychology)-2, Seafarer-0, Stealth-1
+
+
+Enlistment: Agent, Int 6+, 
+Passed, Tavrchedl
+
+Term 1 - Survived, Promoted to R1
+Training: Persuade,
+Event: Specialist training in vehicles. +1 to Grav
+Born on Zhdant, Vlezshiatlstebr was identified as a strong psion early in childhood. Her power and potential marked her as a natural for a government role and upon reaching adulthood at her second atlteqozdij (age 18) she signed on with the Tavrchedl. Training proceeded well, as expected, and she earned her first command as a Guardian of 20. 
+
+
+Term 2 - Survived, Promoted to R2
+Training: Telepathy, 
+Event: Advanced training in Computer
+Vlezshiatlstebr's talents continued to rise. Her supervisors began to give her increasingly challenging leadership opportunities, which she used to improve her skills and Telepathic talents. Another promotion followed, to Guardian of 50.
+
+Term 3 - Survived, Promoted to R3
+Training: Stealth
+Event: goes undercover to investigate an enemy. Gain +1 DM to any benefit roll. Learned Admin.
+In her third term, Vlezshiatlstebr was sent on an undercover mission to break a ring of agitators. For her work she was promoted to Guardian of 100.
+
+Term 4 - Survived, Promoted to R4
+Training: Investigate, Psychology, JoT
+Event: Goes undercover. Rewarded for diligence (+2 on next advancement roll).
+No aging effects.
+Another prestigious undercover assignment followed in this term, this time off world to a new colony. Her work earned her yet another promotion to Guardian of 500 and a reward for her excellent work.
+
+Term 5 - Survived, Promoted to R5
+Training: Admin, Telepathy
+Event: Rewarded for a successful mission. Gain +1 on any benefit roll.
+Aging: No effects.
+Accolades, opportunities and promotions continued to follow Vlezshiatlstebr. A highly successful investigation of corruption led to another promotion and rewards. 
+
+Term 6 - Survived, Promoted to R6
+Training: Soc +1, Psi +1
+Event: Establishes network of 2 important contacts.
+No aging effects.
+Now at the top ranks of the Tavrchedl, Vlezshiatlstebr earns the most important promotion of her career, becoming Vlezshiatltlas and Guardian of Thousands. Her network of contacts throughout the Consulate now includes Qlomdlabr and Fevranzhtavrchedl officials at the sector level. Feeling the weight of responsibility, and the creep of middle age, she decides to settle into a less physically demanding role.
+
+Term 7 - Survived, No promotion possible
+Training: Science (Psych), Comms
+Event: Reassigned to desk job. 
+-1 to Str and Dex.
+Vlezhshiattlas's age begins to catch up with her, though her skills remain at their peak. The call of adventure is too much of a lure, and she retires an honored and valued member of the Tavrchedl. 
+
+For her efforts, Vlezshiatltlas is rewarded with the highest honor the Tavrchedl are able to give - the Nenjchinzhe'driante (Consular Legion of Merit), as well as the rank of Tavrchedliashav (Lady Protector) and with it, promotion to Preblshienchiashav. 
+
+Benefits: Cr70,000
++1 Soc
++1 Int
+Nenj
++1 Soc
